@@ -6,7 +6,10 @@ body {
 
 body {
   margin: 0;
-  background-color: whitesmoke;
+  background: linear-gradient(217deg, rgba(1, 18, 32, 0.863), black);
+  /* background: linear-gradient(45deg, red, blue); */
+  background-position: center;
+  background-size: cover;
 }
 
 * {
